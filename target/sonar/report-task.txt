@@ -1,0 +1,5 @@
+projectKey=com.mycompany.app:PrintInformation
+serverUrl=http://172.27.59.149:9005
+dashboardUrl=http://172.27.59.149:9005/dashboard/index/com.mycompany.app:PrintInformation
+ceTaskId=AV6U-sIhwEMX2R69EkV4
+ceTaskUrl=http://172.27.59.149:9005/api/ce/task?id=AV6U-sIhwEMX2R69EkV4
